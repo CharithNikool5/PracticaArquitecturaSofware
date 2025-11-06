@@ -6,6 +6,7 @@ public class ToUpperCase {
             System.out.println(output);
         } else {
 
+            
             System.out.println("Please provide a string as an XXXXXXXX plis ");
         }
     }
