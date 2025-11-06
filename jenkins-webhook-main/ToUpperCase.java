@@ -4,6 +4,7 @@ public class ToUpperCase {
             String input = args[0];
             String output = input.toUpperCase();
             System.out.println(output);
+            
         } else {
 
             
